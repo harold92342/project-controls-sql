@@ -122,5 +122,5 @@ project-controls-sql/
 
 ## 👤 Auteur / Author
 
-**Timothée Kabwe Zumbi** — Project & Data Professional, PMP®
+**Timothée Kabwe** — Project & Data Professional, PMP®
 [LinkedIn](https://www.linkedin.com/in/timkabwe/) · [Portfolio](https://harold92342.github.io/TimPortfolio) · [Power BI dashboard](https://github.com/harold92342/mining-pmo-dashboard) · MIT License
