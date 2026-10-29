@@ -1,0 +1,16 @@
+project_id,project_name,programme,status,bac_musd,ac_musd,eac_musd,cpi,spi,overrun_musd,overrun_pct,rag
+P027,Primary Crusher Relocation,Growth,Active,54.6,37.7,75.5,0.72,0.66,20.9,38.2,Red
+P011,Pushback 4 Pre-strip,Mine Development,Active,41.7,6.3,55.6,0.75,0.55,13.9,33.3,Red
+P032,Underground Exploration Decline,Growth,Active,63.1,13.1,71.5,0.88,0.85,8.4,13.3,Amber
+P007,Acid Plant Tie-in,Growth,Active,26.9,11.2,33.6,0.8,0.67,6.7,24.8,Red
+P015,Water Treatment Plant Upgrade,Environment & Compliance,On Hold,17.1,8.2,23.0,0.74,0.36,5.9,34.5,Red
+P009,Pit Dewatering System,Mine Development,Active,11.4,10.0,16.0,0.71,0.68,4.6,40.6,Red
+P020,Raw Water Pipeline Replacement,Energy & Utilities,Active,12.5,6.1,16.1,0.78,0.76,3.6,28.9,Red
+P018,Solar PV Plant 20 MW,Energy & Utilities,Active,29.1,25.5,32.6,0.89,0.83,3.5,11.9,Amber
+P006,Electrowinning Rectifier Replacement,Plant Performance,Active,14.5,12.7,16.0,0.91,0.88,1.5,10.0,Amber
+P008,Haul Road Upgrade Phase 2,Mine Development,On Hold,7.3,2.6,8.2,0.88,0.36,1.0,13.2,Red
+P003,Concentrator Thickener Rebuild,Plant Performance,Active,10.8,11.5,11.8,0.92,0.97,1.0,8.8,Amber
+P031,Cobalt Hydroxide Circuit Study,Growth,Active,2.1,2.4,2.5,0.85,0.96,0.4,18.0,Amber
+P026,Community Road Rehabilitation,Site Services,Active,4.1,4.2,4.4,0.93,0.95,0.3,8.0,Amber
+P022,Site Clinic Upgrade,Site Services,Active,2.1,2.1,2.2,0.95,0.95,0.1,5.2,Amber
+P028,Conveyor CV-05 Replacement,Plant Performance,On Hold,7.0,1.5,6.9,1.01,0.21,-0.1,-1.2,Red

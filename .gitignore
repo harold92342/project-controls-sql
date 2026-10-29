@@ -1,0 +1,13 @@
+# The database is rebuilt from data/ with: python build_db.py
+project_controls.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

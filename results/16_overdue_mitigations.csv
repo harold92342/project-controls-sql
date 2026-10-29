@@ -1,0 +1,16 @@
+risk_id,project_id,project_name,risk_category,risk_score,mitigation_due_date,days_overdue
+R0086,P011,Pushback 4 Pre-strip,Technical,25,2026-06-24,98
+R0083,P011,Pushback 4 Pre-strip,Safety,25,2026-07-15,77
+R0069,P009,Pit Dewatering System,Supply Chain,20,2026-06-06,116
+R0084,P011,Pushback 4 Pre-strip,Technical,20,2026-08-28,33
+R0071,P009,Pit Dewatering System,Contractor,16,2026-08-19,42
+R0088,P011,Pushback 4 Pre-strip,Safety,15,2026-07-13,79
+R0146,P018,Solar PV Plant 20 MW,Permit & Regulatory,12,2026-07-27,65
+R0051,P007,Acid Plant Tie-in,Permit & Regulatory,8,2026-09-02,28
+R0041,P006,Electrowinning Rectifier Replacement,Supply Chain,6,2026-09-10,20
+R0064,P009,Pit Dewatering System,Supply Chain,4,2026-09-29,1
+R0258,P032,Underground Exploration Decline,Permit & Regulatory,3,2026-05-23,130
+R0207,P026,Community Road Rehabilitation,Environmental,3,2026-09-18,12
+R0209,P026,Community Road Rehabilitation,Contractor,2,2026-06-30,92
+R0085,P011,Pushback 4 Pre-strip,Safety,1,2026-05-18,135
+R0216,P027,Primary Crusher Relocation,Environmental,1,2026-08-19,42

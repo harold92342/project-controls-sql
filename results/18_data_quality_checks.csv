@@ -1,0 +1,10 @@
+check_name,issues,status
+"Cumulative PV, EV or AC decreases from one month to the next",0,OK
+EAC lower than actual cost to date,0,OK
+Gap of more than one month between two reports of a project,0,OK
+Project reported again after being Completed,0,OK
+Completed project below 100% complete,0,OK
+"Risk closed before it was raised, or due before it was raised",0,OK
+Project without any monthly report,0,OK
+Man-hours booked after the project stopped reporting (removed by the fix),57,FIXED
+Incidents booked after the project stopped reporting (removed by the fix),81,FIXED
